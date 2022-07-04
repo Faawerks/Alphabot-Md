@@ -19,16 +19,16 @@ global.autobio = true
 //language
 //Available in indonesia & english
 //You can request others language 
-global.language = english  //change indonesia to english if you don't understand the language used by the bot
+global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 global.botname = "Flazebot-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ FlazOfcོ ×፝֟͜×" //nama kalian
 global.myweb ="https://api.flazec.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/FlazBot" //bebas asal jan hapus
-global.github = "https://flazeeBot.github.io/" //bebas
-global.email = "FlazeC@gmail.com" //bebas
+global.youtube = "https://youtube.com/channel/UCQZlHNdEgQma8tpaoYK4ehA" //bebas asal jan hapus
+global.github = "https://github.com/FlazeeBot/" //bebas
+global.email = "FlazeCBot@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.owner = ["6285742952493","6285742952493"] //ganti agar fitur owner bisa di gunakan
